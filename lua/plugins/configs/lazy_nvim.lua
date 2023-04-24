@@ -44,4 +44,5 @@ return {
       },
     },
   },
+  git = { url_format = "git@github.com:%s" },
 }
